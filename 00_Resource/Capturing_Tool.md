@@ -27,5 +27,5 @@ Dann unten rechts Einstellungen anpassen:
 * Mit OK bestätigen. Vorbereitungen fertig.
 * 
 * Dann beim Loslaufen: Aufnahme starten, OBS Fenster minimieren.
-* Zum Stoppen 
+* Zum Stoppen wieder maximieren, unten rechts Aufnahme stoppen.
 
