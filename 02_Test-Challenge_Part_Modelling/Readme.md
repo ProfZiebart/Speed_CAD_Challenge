@@ -4,4 +4,6 @@ Erstellen Sie das in der Zeichnung abgebildete Bauteil mit allen für die Zeichn
 
 Viel Erfolg!
 
-(Für den Upload können Sie dieses Projekt klonen und dann einen Merge-Request erzeugen.)
+Für den Upload nutzen Sie bitte folgenden Link: 
+https://hsbi.sciebo.de/s/cdJmDR7tKASaRXU
+
