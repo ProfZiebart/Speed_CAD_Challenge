@@ -11,6 +11,7 @@ Diese ZIP muss nicht installiert werden, sondern nur entpackt.
 * dann den richtigen Bildschirm wählen, 
 * Mauszeiger aufnehmen anklicken. 
 * Okay
+* Bildschrirmaufnahme (roter Rahmen) so anpassen, dass die Uhr im Bildschirmauschnitt mit dargestellt ist
 
 Dann unten rechts Einstellungen anpassen:
 * Allgemein: Allgemein- OBS-Fenster vor Bildschirmaufnahmen verstecken anklicken. ggf. bestätigen
