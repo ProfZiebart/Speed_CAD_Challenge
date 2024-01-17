@@ -7,7 +7,8 @@ Viel Erfolg!
 Für den Upload nutzen Sie bitte folgenden Link: 
 https://hsbi.sciebo.de/s/cdJmDR7tKASaRXU
 
-Benennen Sie ihre Ihre Dateien eindeutig und mit Ihrem Namen
+Benennen Sie Ihre Dateien eindeutig und mit Ihrem Namen.
+
 Folgende Dateien müssen hochgeladen werden:
 * CAD-Datei im nativen Dateiformat
 * CAD-Datei im STEP Format
