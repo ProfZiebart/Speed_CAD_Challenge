@@ -8,8 +8,8 @@ Folgende Dateien müssen hochgeladen werden:
 * Bildschirmvideo
 
 Die Dateien sollen nach folgenden Schema benannt werden:
-Nachname_Ort_Bauteilname
-z.B. Kaufmann_Bielefeld_Hohlwelle
+* achname_Ort_Bauteilname
+* z.B. Kaufmann_Bielefeld_Hohlwelle
 
 Viel Erfolg!
 
