@@ -18,3 +18,6 @@ https://hsbi.sciebo.de/s/cdJmDR7tKASaRXU
 
 
 Hinweise:
+* Machen Sie ein Test-Video zur Überprüfung ob die Einstellungen und der Speicherort korrekt sind
+* Sorgen Sie für ausreichend Speicherplatz für das Video (bis zu 500 MB bei 30 min Video)
+* Überprüfen Sie durch ein Übungsbauteil Ihrer Wahl ob die Einstellungen des verwendeten CAD-Systems passen
